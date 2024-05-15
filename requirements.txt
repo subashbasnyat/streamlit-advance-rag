@@ -1,0 +1,11 @@
+streamlit
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+torch
+sentence-transformers
+ollama
+qdrant-client
+llama_index.vector_stores.qdrant
+fastembed
+pre-commit
